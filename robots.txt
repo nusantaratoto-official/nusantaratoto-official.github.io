@@ -1,0 +1,5 @@
+# robots.txt - NUSANTARATOTO (Profil Resmi)
+User-agent: *
+Allow: /
+
+Sitemap: https://nusantaratoto-official.github.io/sitemap.xml
