@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://nusantaratoto-official.github.io/</loc>
     <lastmod>2026-08-06</lastmod>
-  </url>
+      <image:image>
+      <image:loc>https://nusantaratoto-official.github.io/images/NUSANTARATOTO-Profil-Resmi-Kanal-Terverifikasi.webp</image:loc>
+      <image:title>Profil resmi NUSANTARATOTO dan kanal terverifikasi</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://nusantaratoto-official.github.io/biliar/index.html</loc>
     <lastmod>2026-08-06</lastmod>
-  </url>
+      <image:image>
+      <image:loc>https://nusantaratoto-official.github.io/images/biliar-berita-terbaru-turnamen.webp</image:loc>
+      <image:title>Berita biliar terbaru turnamen dan aturan main</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://nusantaratoto-official.github.io/biliar/perbedaan-8-ball-dan-9-ball.html</loc>
     <lastmod>2026-08-06</lastmod>
@@ -55,7 +64,11 @@
   <url>
     <loc>https://nusantaratoto-official.github.io/login/</loc>
     <lastmod>2026-08-06</lastmod>
-  </url>
+      <image:image>
+      <image:loc>https://nusantaratoto-official.github.io/images/Login-Resmi-NUSANTARATOTO-Masuk-Akun.webp</image:loc>
+      <image:title>Login resmi NUSANTARATOTO masuk akun</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://nusantaratoto-official.github.io/poker/dasar-strategi-poker-kompetitif.html</loc>
     <lastmod>2026-08-06</lastmod>
@@ -67,7 +80,11 @@
   <url>
     <loc>https://nusantaratoto-official.github.io/poker/index.html</loc>
     <lastmod>2026-08-06</lastmod>
-  </url>
+      <image:image>
+      <image:loc>https://nusantaratoto-official.github.io/images/poker-berita-kompetitif-terbaru.webp</image:loc>
+      <image:title>Berita poker kompetitif terbaru</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://nusantaratoto-official.github.io/poker/sejarah-turnamen-poker-dunia.html</loc>
     <lastmod>2026-08-06</lastmod>
@@ -79,7 +96,11 @@
   <url>
     <loc>https://nusantaratoto-official.github.io/sepak-bola/index.html</loc>
     <lastmod>2026-08-06</lastmod>
-  </url>
+      <image:image>
+      <image:loc>https://nusantaratoto-official.github.io/images/sepak-bola-berita-terbaru.webp</image:loc>
+      <image:title>Berita sepak bola terbaru Liga 1</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://nusantaratoto-official.github.io/sepak-bola/profil-pemain-muda-berbakat.html</loc>
     <lastmod>2026-08-06</lastmod>
@@ -95,7 +116,11 @@
   <url>
     <loc>https://nusantaratoto-official.github.io/tinju/index.html</loc>
     <lastmod>2026-08-06</lastmod>
-  </url>
+      <image:image>
+      <image:loc>https://nusantaratoto-official.github.io/images/tinju-berita-terbaru-duel-teknik.webp</image:loc>
+      <image:title>Berita tinju terbaru duel dan teknik dasar</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://nusantaratoto-official.github.io/tinju/profil-petinju-legendaris-indonesia.html</loc>
     <lastmod>2026-08-06</lastmod>
